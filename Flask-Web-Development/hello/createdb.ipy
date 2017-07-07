@@ -1,0 +1,9 @@
+# coding: utf-8
+
+#`python manage.py shell`
+#然后依次输入以下命令，创建数据库，否则该web程序运行到和数据库相关的地方就会报错！
+
+from app import db
+db.drop_all()
+db.create_all()
+%save -r createdb 0:10
