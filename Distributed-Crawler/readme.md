@@ -26,6 +26,10 @@ DOM树最重要的作用是用来做网页数据分析及提取，我们可以�
 
 >分析、提取网页内容的时候，XPATH、正则表达式是极其高效的！
 
+Javascript做网络请求的时候最常用的技术称为AJAX（Asynchronous JavaScript and XML），专门用来异步请求数据，要在网络爬虫中处理这些技术就相对复杂一些了！
+
+[20170716-crawler-big-data-hash](https://github.com/HackerLaboratory/_Laboratory/tree/master/_Idea/_Document)有讲到在网页量极大的情况下该如何处理！
+
 ## 
 
 
